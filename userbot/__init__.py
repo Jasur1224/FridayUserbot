@@ -128,9 +128,9 @@ if bool(ENV):
     AUTONAME = os.environ.get("AUTONAME", None)
 
     # Time & Date - Country and Time Zone
-    COUNTRY = str(os.environ.get("COUNTRY", "India"))
+    COUNTRY = str(os.environ.get("COUNTRY", "Uzbekistan"))
 
-    TZ_NUMBER = int(os.environ.get("TZ_NUMBER", 1))
+    TZ_NUMBER = int(os.environ.get("TZ_NUMBER", 2))
     FBAN_REASON = os.environ.get("FBAN_REASON", None)
     FBAN_USER = os.environ.get("FBAN_USER", None)
     # Clean Welcome
