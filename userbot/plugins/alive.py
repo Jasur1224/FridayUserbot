@@ -1,4 +1,4 @@
-"""Check if userbot alive. If you change these, you become the gayest gay such that even the gay world will disown you."""
+
 #IMG CREDITS: @WhySooSerious
 import asyncio
 from telethon import events
@@ -19,9 +19,9 @@ ALIVE_caption += "**Friday OS** : `3.14`\n\n"
 ALIVE_caption += "**Current Sat** : `StarkGangSat-2.25`\n\n"
 ALIVE_caption += f"**My Boss** : {DEFAULTUSER} \n\n"
 ALIVE_caption += "**💽HEROKU MALUMOTLAR BAZASI** : `AWS - SERVERI ISHLAYAPTI`\n\n"
-ALIVE_caption += "**🗂️LITSENZIYA** : [MIT Licence](github.com/StarkGang/FridayUserbot/blob/master/LICENSE)\n\n"
-ALIVE_caption += "Copyright By [StarkGang@Github](GitHub.com/StarkGang)\n\n"
-ALIVE_caption += "[ROBOTIMDAN FOYDALANING](https://telegra.ph/FRIDAY-06-15)"
+ALIVE_caption += "**🗂️LITSENZIYA** : [😝😝😝😝😝](github.com/StarkGang/FridayUserbot/blob/master/LICENSE)\n\n"
+ALIVE_caption += "MUALLIFLIK HUQUQI: [Jasur Abdurahmonov](GitHub.com/Jasur1224)\n\n"
+ALIVE_caption += "[ROBOT EGASI](https://t.me/uzbekman_ok)"
 #@command(outgoing=True, pattern="^.alive$")
 @borg.on(admin_cmd(pattern=r"alive"))
 async def amireallyalive(alive):
